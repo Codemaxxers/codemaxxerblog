@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Student Blog
+title: Codemaxxer Wiki!
 ---
 
 ## Codemaxxer Blogs!
